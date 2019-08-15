@@ -1,0 +1,12 @@
+D:\TitleSpoof\bin\Debug\TitleSpoof.exe.config
+D:\TitleSpoof\bin\Debug\TitleSpoof.exe
+D:\TitleSpoof\bin\Debug\TitleSpoof.pdb
+D:\TitleSpoof\bin\Debug\Teen.dll
+D:\TitleSpoof\obj\Debug\TitleSpoof.csprojAssemblyReference.cache
+D:\TitleSpoof\obj\Debug\TitleSpoof.Main.resources
+D:\TitleSpoof\obj\Debug\TitleSpoof.Properties.Resources.resources
+D:\TitleSpoof\obj\Debug\TitleSpoof.csproj.GenerateResource.cache
+D:\TitleSpoof\obj\Debug\TitleSpoof.csproj.CoreCompileInputs.cache
+D:\TitleSpoof\obj\Debug\TitleSpoof.csproj.CopyComplete
+D:\TitleSpoof\obj\Debug\TitleSpoof.exe
+D:\TitleSpoof\obj\Debug\TitleSpoof.pdb
